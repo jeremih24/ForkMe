@@ -1,6 +1,6 @@
 ##Jeremiah Onwuzurumba, https://github.com/jeremih24/OnwuzurumbaBioinf
 
-##homework template
+##Github and Markdown
 
 1. Answer to question 1
 
