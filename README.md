@@ -13,3 +13,4 @@ Technical content  |  |  |  |  |  |
 Critical thinking  |  |  |  |  |  |
 Documentation  |  |  |  |  |  |
 Professional behavior  |  |  |  |  |  |
+This is to ensure that I am able to finish with an A in this lab.
