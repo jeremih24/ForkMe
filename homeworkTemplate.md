@@ -1,4 +1,4 @@
-##Jeremiah Onwuzurumba, https://github.com/jeremih24/OnwuzurumbaBioinf/edit/master/homeworkTemplate.md
+##Jeremiah Onwuzurumba, https://github.com/jeremih24/OnwuzurumbaBioinf
 
 ##homework template
 
