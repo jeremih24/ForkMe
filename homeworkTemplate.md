@@ -1,6 +1,6 @@
-##Name, GitHub repo URL
+##Jeremiah Onwuzurumba, https://github.com/jeremih24/OnwuzurumbaBioinf/edit/master/homeworkTemplate.md
 
-##Assignment name
+##homework template
 
 1. Answer to question 1
 
